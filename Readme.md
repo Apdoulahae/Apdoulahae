@@ -1,6 +1,6 @@
 <!-- Profile Banner (MBJ LOGO) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/Apdoulahae/banner.png" alt="https://www.google.com/search?q=mbj+coding+logo+design&oq=Mbj+coding+logo+&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRiPAtIBCDEwODVqMGo3qAIUsAIB8QXGYjJc1jf5dA&client=ms-android-oppo&sourceid=chrome-mobile&ie=UTF-8#vhid=6-iEOo0o0oExeM&vssid=_8YU5aNbPLqmwhbIP0pLG4QI_50" width="80%" />
+  <img src="https://user-images.githubusercontent.com/Apdoulahae/banner.png" alt="MBJ CODING " width="80%" />
 </p>
 
 <h1 align="center">Hi, I’m Abdullahi Auwal Garba popularly known as mbj coding,an enthusiat passionate about Cybersecurity,Cyberoffensive, ethical hacking,penetration testing,malmare analysis and Data Safety🔗🤖😎👋</h1>
